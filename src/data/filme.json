@@ -1,0 +1,44 @@
+[
+  {
+    "titulo": "Enola Holmes",
+    "tipo": "Movie",
+    "capa": "https://i.imgur.com/QGgXFL6.png",
+    "logo": "https://i.imgur.com/ZqxNOCO.png",
+    "thumb": "https://i.imgur.com/tPqnpDv.png",
+    "descricao": "Enola Holmes is a mistery movie.",
+    "generos": [
+      "Movies for the Whole Family",
+      "Period Dramas",
+      "Based in Books"
+    ],
+    "elenco": ["Millie Bob Brown", "Henry Cavill", "Sam Claflin"],
+    "cenas_momentos": ["Spiritual", "Thriller", "Exciting"]
+  },
+  {
+    "titulo": "Gotham",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/iDm1pXK.png",
+    "logo": "https://i.imgur.com/oytW0ZC.png",
+    "thumb": "https://i.imgur.com/D6vEM6k.png",
+    "descricao": "Lieutenant James Gordon comes to Gotham in order to fight crime.",
+    "generos": ["Crime Dramas", "HQ Based", "Drama Series"],
+    "elenco": ["Ben MacKenzie", "Donal Logue", "Jada Pinkett Smith"],
+    "cenas_momentos": ["Exciting", "Vigorous"]
+  },
+  {
+    "titulo": "The Punisher",
+    "tipo": "Series",
+    "capa": "https://i.imgur.com/eXbhbs4.png",
+    "logo": "https://i.imgur.com/TKwvurS.png",
+    "thumb": "https://i.imgur.com/pa4Sd2m.png",
+    "descricao": "Former Marine Frank Castle seeks revenge for the deaths of his wife and children, uncovering in the process a conspiracy that extends beyond New York's criminal underworld and the military.",
+    "generos": ["Action", "HQ Based", "Drama Series"],
+    "elecon": [
+      "Jon Bernthal",
+      "Amber Rose Revah",
+      "Ben Barnes",
+      "Jason R. Moore"
+    ],
+    "cenas_momentos": ["Exciting", "Vigorous", "Realist"]
+  }
+]
