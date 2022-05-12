@@ -19,6 +19,6 @@ app.use("/", filmeRoutes);
 app.use("/usuario", usuarioRoutes);
 app.use("/episodio", episodiosRoutes);
 
-app.listen(3000, () => {
+app.listen(8000, () => {
   console.log("Meu servidor está funcionando.");
 });
