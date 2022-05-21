@@ -9,6 +9,8 @@ const filmeRoutes = require("./src/routes/main.routes");
 const usuarioRoutes = require("./src/routes/usuarios.routes");
 const episodiosRoutes = require("./src/routes/episodios.routes");
 
+const PORT = process.env.PORT || 3000
+
 // MIDDLEWARES
 app.use(bodyParser.json());
 // app.use(cors());
@@ -19,6 +21,6 @@ app.use("/", filmeRoutes);
 app.use("/usuario", usuarioRoutes);
 app.use("/episodio", episodiosRoutes);
 
-app.listen(8000, () => {
+app.listen(PORT, () => {
   console.log("Meu servidor está funcionando.");
 });
